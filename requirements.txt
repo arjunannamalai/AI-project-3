@@ -1,0 +1,4 @@
+python-chess
+pygame
+imageio
+numpy
